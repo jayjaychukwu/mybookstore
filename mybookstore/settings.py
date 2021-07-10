@@ -28,7 +28,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'books',
     'django_filters',
-    'whitenoise.runserver_nostatic',
 ]
 
 MIDDLEWARE = [
